@@ -1,7 +1,7 @@
 /*
  * Programming_Exercise2_Tyler_Fuller.java
  * Tyler Fuller
- * 01261820
+ * 01261802
  * 09/11/2023
  */
 
@@ -23,7 +23,7 @@ public class Programming_Exercise2_Tyler_Fuller{
 			w = x + y + ONE;
 		}
 		
-		// Since z is not gerater than 10, compute this statement
+		// Since z is not greater than 10, compute this statement
 		else {
 			y = 4;
 			w = x + y + ONE;
